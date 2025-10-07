@@ -1,16 +1,38 @@
-## Hi there 👋
+ 👋 Hi, I'm Deisi Henao  
 
-<!--
-**Deisyferh8/Deisyferh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Finance & Data Science Professional | CPA | Python & SQL | IFRS/IPSAS**
 
-Here are some ideas to get you started:
+I'm a Colombian Certified Public Accountant and Data Science graduate with 5+ years of experience in financial analysis, reporting, and IPSAS implementation. I integrate analytical and programming skills to solve financial and business challenges efficiently.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about leveraging data to support strategic decision-making and continuous improvement.  
+
+---
+
+### 🧠 Core Skills  
+- Financial Analysis & Reporting (IFRS / IPSAS)  
+- Python & SQL for Data Analysis and Machine Learning  
+- Data Visualization & Storytelling  
+- Statistical Testing & Model Evaluation  
+- Accounting Software (QuickBooks, Siigo, Delta, Finanzas Plus)  
+- Advanced Excel, Office 365, and Google Workspace  
+
+---
+
+### 📊 Projects  
+- [Basic Python Project](#)  
+- [Exploratory Data Analysis (EDA)](#)  
+- [Statistical Data Analysis](#)  
+- [Machine Learning in Business](#)  
+- [Integrated Projects](#)  
+
+(*Links will be added once projects are uploaded to their repositories.*)
+
+---
+
+### 📫 Contact  
+[LinkedIn](https://linkedin.com/in/deisihenao)  
+[Email](mailto:deisyferh8@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my projects and connect.*  
