@@ -2,7 +2,7 @@
 
 **Finance & Data Science Professional | CPA | Python & SQL | IFRS/IPSAS**
 
-I'm a Colombian Certified Public Accountant and Data Science graduate with 5+ years of experience in financial analysis, reporting, and IPSAS implementation. I integrate analytical and programming skills to solve financial and business challenges efficiently.  
+Financial Analyst and Data Analyst. CPA and Data Science Bootcamp graduate with 5+ years of experience in financial analysis, reporting and accounting consulting. Proficient in Python and SQL, skilled in data wrangling, statistical testing, and building machine-learning models. Combines strong financial expertise with advanced analytics to deliver accurate, tech-driven solutions and guide data-informed decisions.  
 
 💡 Passionate about leveraging data to support strategic decision-making and continuous improvement.  
 
