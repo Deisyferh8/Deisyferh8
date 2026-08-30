@@ -1,8 +1,8 @@
  👋 Hi, I'm Deisi Henao  
 
-**Finance & Data Science Professional | CPA | Python & SQL | IFRS/IPSAS**
+**Accounting & Financial Analysis Professional | Data Analytics | Python & SQL**
 
-Financial Analyst and Data Analyst. CPA and Data Science Bootcamp graduate with 5+ years of experience in financial analysis, reporting and accounting consulting. Proficient in Python and SQL, skilled in data wrangling, statistical testing, and building machine-learning models. Combines strong financial expertise with advanced analytics to deliver accurate, tech-driven solutions and guide data-informed decisions.  
+Accounting and Financial Analysis professional with 5+ years of experience in financial reporting, budgeting, reconciliations, and accounting consulting. Bachelor’s degree in Public Accounting and M.A. in Accounting & Finance. Currently expanding my analytical skills through Python, SQL, and Data Science projects.  
 
 💡 Passionate about leveraging data to support strategic decision-making and continuous improvement.  
 
@@ -18,14 +18,15 @@ Financial Analyst and Data Analyst. CPA and Data Science Bootcamp graduate with 
 
 ---
 
-### 📊 Projects  
+### 📊 Featured Projects  
+- [Gold Recovery Prediction] — Python, pandas, scikit-learn
+- [Machine Learning for Business Decisions] — Python, pandas, scikit-learn
+- [User Behavior Analysis] — Python, pandas, scikit-learn
 - [Basic Python Project](#)  
 - [Exploratory Data Analysis (EDA)](#)  
 - [Statistical Data Analysis](#)  
 - [Machine Learning in Business](#)  
 - [Integrated Projects](#)  
-
-(*Links will be added once projects are uploaded to their repositories.*)
 
 ---
 
