@@ -19,14 +19,10 @@ Accounting and Financial Analysis professional with 5+ years of experience in fi
 ---
 
 ### 📊 Featured Projects  
-- [Gold Recovery Prediction] — Python, pandas, scikit-learn
-- [Machine Learning for Business Decisions] — Python, pandas, scikit-learn
-- [User Behavior Analysis] — Python, pandas, scikit-learn
-- [Basic Python Project](#)  
-- [Exploratory Data Analysis (EDA)](#)  
-- [Statistical Data Analysis](#)  
-- [Machine Learning in Business](#)  
-- [Integrated Projects](#)  
+- [Gold Recovery Prediction](#) — Python, pandas, scikit-learn
+- [Machine Learning for Business Decisions](#) — Python, pandas, scikit-learn
+- [User Behavior Analysis](#) — Python, pandas, scikit-learn
+ 
 
 ---
 
