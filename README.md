@@ -19,9 +19,9 @@ Accounting and Financial Analysis professional with 5+ years of experience in fi
 ---
 
 ### 📊 Featured Projects  
-- [Gold Recovery Prediction](#) — Python, pandas, scikit-learn
-- [Machine Learning for Business Decisions](#) — Python, pandas, scikit-learn
-- [User Behavior Analysis](#) — Python, pandas, scikit-learn
+- [Gold Recovery Prediction](https://github.com/Deisyferh8/Gold-recovery) — Python, pandas, scikit-learn
+- [Machine Learning for Business Decisions](https://github.com/Deisyferh8/machine-learning-business) — Python, pandas, scikit-learn
+- [User Behavior Analysis](https://github.com/Deisyferh8/users-behavior-ml) — Python, pandas, scikit-learn
  
 
 ---
